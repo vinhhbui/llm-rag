@@ -32,3 +32,6 @@ source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
+
+## 4. Video demo
+https://drive.google.com/drive/folders/1qg9poZPIdsmZ9SecT-UsognWYCkOlTUD?usp=sharing
